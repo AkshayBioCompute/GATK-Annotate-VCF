@@ -75,7 +75,7 @@ pip install -r requirements.txt
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/genome-analysis-pipeline.git
+git clone https://github.com/AkshayBioCompute/genome-analysis-pipeline.git
 cd genome-analysis-pipeline
 ```
 
