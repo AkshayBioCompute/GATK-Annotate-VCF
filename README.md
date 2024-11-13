@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file that you can use for your project. This will provide an overview of the pipeline, setup instructions, and how to run it using Snakemake, Nextflow, and WDL.
-
----
-
 # Genome Analysis Pipeline
 
 This repository contains a comprehensive pipeline for genomic data analysis, including tasks like quality control, read alignment, variant calling, annotation, and filtering. The pipeline supports multiple workflow engines, including Snakemake, Nextflow, and WDL. This flexibility allows the user to choose the most suitable execution environment for their project.
