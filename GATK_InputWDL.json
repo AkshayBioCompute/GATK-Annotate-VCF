@@ -1,0 +1,26 @@
+{
+  "VariantFilteringAnnotation.ref": "/home/akshay/Akshay/GATK_annotate_vcf/hg38.fa",
+  "VariantFilteringAnnotation.raw_snps": "/home/akshay/Akshay/GATK_annotate_vcf/raw_snps.vcf",
+  "VariantFilteringAnnotation.raw_indels": "/home/akshay/Akshay/GATK_annotate_vcf/raw_indels.vcf",
+  "VariantFilteringAnnotation.results": "/home/akshay/Akshay/GATK_annotate_vcf/results",
+  "VariantFilteringAnnotation.snp_filters": {
+    "QD": 2.0,
+    "FS": 60.0,
+    "MQ": 40.0,
+    "SOR": 4.0,
+    "MQRankSum": -12.5,
+    "ReadPosRankSum": -8.0
+  },
+  "VariantFilteringAnnotation.indel_filters": {
+    "QD": 2.0,
+    "FS": 200.0,
+    "SOR": 10.0
+  },
+  "VariantFilteringAnnotation.genotype_filters": {
+    "DP": 10,
+    "GQ": 10
+  },
+  "VariantFilteringAnnotation.funcotator_data_sources": "/home/akshay/Akshay/GATK_annotate_vcf/funcotator_dataSources",
+  "VariantFilteringAnnotation.ref_version": "hg38"
+}
+
