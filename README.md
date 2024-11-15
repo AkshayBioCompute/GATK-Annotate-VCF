@@ -1,4 +1,4 @@
-# Genome Analysis Pipeline
+# GATK-Annotate-VCF
 
 This repository contains a comprehensive pipeline for genomic data analysis, including tasks like quality control, read alignment, variant calling, annotation, and filtering. The pipeline supports multiple workflow engines, including Snakemake, Nextflow, and WDL. This flexibility allows the user to choose the most suitable execution environment for their project.
 
@@ -71,8 +71,8 @@ pip install -r requirements.txt
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/AkshayBioCompute/genome-analysis-pipeline.git
-cd genome-analysis-pipeline
+git clone https://github.com/AkshayBioCompute/GATK-Annotate-VCF.git
+cd GATK-Annotate-VCF.git
 ```
 
 Install the required Python dependencies:
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ## File Structure
 
 ```plaintext
-genome-analysis-pipeline/
+GATK-Annotate-VCF/
 ├── README.md                       # This readme file
 ├── requirements.txt                # Python dependencies
 ├── src/                            # Python scripts for the pipeline
